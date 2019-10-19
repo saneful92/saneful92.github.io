@@ -1,0 +1,40 @@
+header{
+  background-color: red;
+  padding:10px 0;
+}
+
+
+.title{
+  margin-left: 20px;
+  font-family: impact;
+}
+
+.people{
+  padding-top: 30px;
+  text-align: center;
+  background-image:url("elly134101452.jpg");
+  background-size: cover;
+}
+
+.person{
+  float:left;
+  width:33%;
+}
+
+.person img{
+  height:300px;
+}
+
+.name{
+  font-family: Tahoma;
+  font-size: 25px;
+  background-color: white;
+  display:inline-block;
+  border-radius: 5px;
+  padding:0 10px;
+  opacity: 0.8;
+}
+
+.clear{
+  clear:left;
+}
